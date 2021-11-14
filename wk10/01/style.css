@@ -1,0 +1,29 @@
+body {
+  background-color: orange;
+}
+
+.title {
+  background-color: yellow;
+}
+
+.desc {
+  background-color: pink;
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  border-width: 3px;
+  border-style: dashed;
+  margin: 50px;
+  padding: 20px;
+
+}
+
+.specialBox {
+  position: fixed;
+  right: 200px;
+  top: 150px;
+  border-width: 3px;
+  border-style: dashed;
+}

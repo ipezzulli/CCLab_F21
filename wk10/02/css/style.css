@@ -1,0 +1,15 @@
+p {
+  font-size: 60px;
+  font-family: sans-serif;
+  color: red;
+}
+
+#box {
+  width: 200px;
+  height: 150px;
+  background-color: yellow;
+
+  position: absolute;
+  left: 150px;
+  top: 150px;
+}

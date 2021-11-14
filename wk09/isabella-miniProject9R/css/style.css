@@ -1,0 +1,125 @@
+.body1{
+  background-image: url("/assets/linedpaper.jpg");
+}
+
+.in1Text{
+    font-size: 35px;
+    font-family: 'Cutive Mono', monospace;
+    letter-spacing: 4px;
+    word-spacing: 8px;
+    line-height: 50px;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+.in1Text a{
+  color: black;
+  font-size: 50px;
+  padding-left: 450px;
+}
+.in1Text a:hover{
+  font-size: 90px;
+  text-shadow: 2px 2px;
+}
+.in1Text a:visited{
+  color: black;
+}
+
+#in1Line2{
+  text-indent: 30px;
+  font-size: 30px;
+}
+#in1Line3{
+  text-indent: 20px;
+  font-size: 40px;
+}
+#in1Line4{
+  text-indent: 60px;
+  font-size: 50px;
+}
+#in1Line5{
+  text-indent: 90px;
+  font-size: 40px;
+}
+
+
+.body2{
+  background-image: url("/assets/stonewall.jpg");
+}
+
+.in2Text{
+  color: white;
+  font-size: 50px;
+  font-family: "IM Fell English SC";
+  letter-spacing: 5px;
+  word-spacing: 8px;
+  line-height: 8px;
+  margin-left: 80px;
+  margin-top: 60px;
+}
+.in2Text a{
+  color: white;
+  font-size: 60px;
+  padding-left: 650px;
+}
+.in2Text a:hover{
+  font-size: 100px;
+  text-shadow: 2px 2px;
+}
+.in2Text a:visited{
+  color: white;
+}
+
+#in2Line3{
+  font-size: 30px;
+}
+#in2Line4{
+  font-size: 25px;
+}
+#in2Line5{
+  font-size: 20px;
+}
+#in2Line6{
+  font-size: 40px;
+}
+#in2Line7{
+  font-size: 45px;
+}
+#in2Line8{
+  font-size: 30px;
+}
+#in2Line9{
+  font-size: 25px;
+}
+#in2Line10{
+  font-size: 20px;
+}
+#in2Line11{
+  font-size: 30px;
+}
+
+.body3{
+  background-image: url("/assets/postcard.jpg");
+}
+
+.in3Text{
+    color: #F0FFFF;
+    font-size: 50px;
+    font-family: 'Syne Tactile', cursive;
+    letter-spacing: 4px;
+    word-spacing: 8px;
+    line-height: 50px;
+    margin-left: 180px;
+    margin-top: 250px;
+}
+.in3Text a{
+  color: #BC8F8F;
+  font-size: 50px;
+  padding-left: 400px;
+}
+.in3Text a:hover{
+  color: #F0FFFF;
+  letter-spacing: 8px;
+}
+.in3Text a:visited{
+  color: #BC8F8F;
+}
