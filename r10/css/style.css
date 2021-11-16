@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 5px;
+  background-image: url("/assets/background.gif");
+  background-color: #FFF0F5;
+}
+
+.container{
+  margin-left: 50px;
+}
+
+button {
+  background-color: #6495ED;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background-color: #000080;
+  cursor: pointer;
+}
+
+p {
+  font-family: "Lucida Console", monospace;
+  margin-left: 70px;
+}
