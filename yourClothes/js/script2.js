@@ -27,7 +27,7 @@ function draw() {
     water[i].display();
     water[i].update();
   }
-  gif_createImg.position(545, 485);
+  gif_createImg.position(600, 485);
 }
 
 class Streak {
